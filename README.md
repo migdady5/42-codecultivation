@@ -1,0 +1,1 @@
+# migdady5\n\n## 42-codecultivation\n\n42 CodeCultivation is a software project developed during the 42 Common Core.\n\nThis repository contains work completed as part of the 42 Software Engineering Common Core.\n
